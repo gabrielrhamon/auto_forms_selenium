@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Excel temporário
+~$*.xlsx
+
+# IDEs
+.vscode/
+.idea/
+
+*.log
+.DS_Store
+*.bak
+*.tmp
